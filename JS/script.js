@@ -32,7 +32,6 @@ const checkWin = () => {
     } )
 }
 
-
 // Game Logic
 let boxes = document.getElementsByClassName("box");
 Array.from(boxes).forEach(element => {
